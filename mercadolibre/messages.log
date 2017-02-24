@@ -1,0 +1,2 @@
+FAILED
+Error opening SSH connection: ssh: handshake failed: ssh: unable to authenticate, attempted methods [none password], no supported methods remain
